@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋, my name is Sukesh
+### Data Enthusiast
+-------------
+### 💫ABOUT ME
+ 
+                 👩‍💻Google Certified Data Analyst
+                 ❤️ Passionate about converting data into insights and building frameworks for decision-making.
+                 🔭 I’m currently working on SQL, Python, Power BI, and ETL Tools.
+                 🙏 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
+                 🌱 I’m currently learning Machine Learning and Python.
+                 💕 I love to do Dashbaords
+------------
+###BADGES
+![alt text](http://url/to/)
 
-<!--
-**NDSUKESH/NDSUKESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
