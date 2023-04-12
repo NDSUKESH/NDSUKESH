@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Sukesh
 
-## Data Enthusiast <p align="right"><img src="https://user-images.githubusercontent.com/85696992/231533741-013b3615-e31e-4a8f-9aa7-70e91835bba2.gif" width="300" height="180"></p>
+## <p>Data Enthusiast</p><p align="right"><img src="https://user-images.githubusercontent.com/85696992/231533741-013b3615-e31e-4a8f-9aa7-70e91835bba2.gif" width="300" height="180"></p>
 -------------
 ## 💫ABOUT ME
 
@@ -41,3 +41,9 @@ Data Visualization Tool
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NDSUKESH&theme=jolly&hide_border=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NDSUKESH&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+-------------
+## 📉DashBoards 
+
+ <p ><img src="https://user-images.githubusercontent.com/85696992/231541774-3b375ade-9763-4da0-8cad-704d0228b70c.png" width="500" height="280">   <img src="https://user-images.githubusercontent.com/85696992/231542598-195983b8-b4aa-4766-9fd3-0fcc5dd8cd4d.png" width="500" height="280"></p>
+
