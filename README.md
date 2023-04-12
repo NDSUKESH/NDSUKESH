@@ -31,7 +31,7 @@ Data Visualization Tool
                        
 -------------
 ## 🌐PROFILES
-<p><a href="https://www.linkedin.com/in/sukesh-n-d-633865204/"><img src="https://user-images.githubusercontent.com/85696992/231528400-452d2492-97e0-4ec4-92b5-94efb6f7d2d3.png" width="75" height="50"></a>  <a href="https://leetcode.com/profile/account/"><img src="https://user-images.githubusercontent.com/85696992/231527992-0b0ed3f9-887a-4295-8ca4-d912bf5b958e.png" width="75" height="50"></a></p>
+<p><a href="https://www.linkedin.com/in/sukesh-n-d-633865204/"><img src="https://user-images.githubusercontent.com/85696992/231528400-452d2492-97e0-4ec4-92b5-94efb6f7d2d3.png" width="75" height="50"></a>  <a href="https://leetcode.com/SUKESH_7/"><img src="https://user-images.githubusercontent.com/85696992/231527992-0b0ed3f9-887a-4295-8ca4-d912bf5b958e.png" width="75" height="50"></a></p>
 
 -------------
 ## 📊GitHub Stats
