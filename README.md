@@ -1,14 +1,43 @@
-## Hi there 👋, my name is Sukesh
-### Data Enthusiast
+# Hi there 👋, my name is Sukesh
+
+## Data Enthusiast <p align="right"><img src="https://user-images.githubusercontent.com/85696992/231533741-013b3615-e31e-4a8f-9aa7-70e91835bba2.gif" width="300" height="180"></p>
 -------------
-### 💫ABOUT ME
- 
-                 👩‍💻Google Certified Data Analyst
+## 💫ABOUT ME
+
+                 💻Google Certified Data Analyst
                  ❤️ Passionate about converting data into insights and building frameworks for decision-making.
                  🔭 I’m currently working on SQL, Python, Power BI, and ETL Tools.
                  🙏 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
                  🌱 I’m currently learning Machine Learning and Python.
                  💕 I love to do Dashbaords
 ------------
-### BADGE
- <img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="300" height="280">
+##  📛BADGE
+ <p align="center"><img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="300" height="280"></p>
+
+-------------
+##  💻TECH STACK
+
+Programing Languages
+                       
+                       1.Pyhton     2.SQL     3.C++
+                      
+Excel
+
+                       1.Pivot Table     2.Charts
+                      
+Data Visualization Tool
+
+                       1.PowerBi   2.Excel     3.Python(seaborn/matplotlib)
+                       
+-------------
+## 🌐PROFILES
+<p><a href="https://www.linkedin.com/in/sukesh-n-d-633865204/"><img src="https://user-images.githubusercontent.com/85696992/231528400-452d2492-97e0-4ec4-92b5-94efb6f7d2d3.png" width="75" height="50"></a>  <a href="https://leetcode.com/profile/account/"><img src="https://user-images.githubusercontent.com/85696992/231527992-0b0ed3f9-887a-4295-8ca4-d912bf5b958e.png" width="75" height="50"></a></p>
+
+-------------
+## 📊GitHub Stats
+
+[![Sukesh Github stats](https://github-readme-stats.vercel.app/api?username=NDSUKESH&show_icons=true&hide=contribs,prs&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=NDSUKESH&theme=jolly&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NDSUKESH&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
