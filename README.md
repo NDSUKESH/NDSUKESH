@@ -19,7 +19,7 @@
 
 Programing Languages
                        
-                       1.Pyhton     2.SQL     3.C++
+                       1.Python     2.SQL     3.C++
                       
 Excel
 
