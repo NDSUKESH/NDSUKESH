@@ -6,8 +6,7 @@ A final year student who is passionate about learning Artificial Intelligence an
 #  💻Tech Stack
 
 Programing Languages
-                       
-                       1.Python     2.SQL     3.C++
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                       1.Python     2.SQL     3.C++
                       
 Excel
 
