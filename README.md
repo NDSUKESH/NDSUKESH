@@ -27,15 +27,10 @@ A final year student who is passionate about learning Artificial Intelligence an
 
 # 📊GitHub Stats
 
-[![Sukesh Github stats](https://github-readme-stats.vercel.app/api?username=NDSUKESH&show_icons=true&hide=contribs,prs&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=NDSUKESH&theme=jolly&hide_border=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NDSUKESH&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/NDSUKESH)  
 
--------------
 # 📉DashBoards 
 
  <p ><img src="https://user-images.githubusercontent.com/85696992/231541774-3b375ade-9763-4da0-8cad-704d0228b70c.png" width="500" height="280">   <img src="https://user-images.githubusercontent.com/85696992/231542598-195983b8-b4aa-4766-9fd3-0fcc5dd8cd4d.png" width="500" height="280"></p>
