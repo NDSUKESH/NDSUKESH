@@ -1,12 +1,8 @@
 # Hi 👋, I am Sukesh.
-      A final year student who is passionate about learning Artificial Intelligence and its real-time applications. I enjoy working in Python, machine learning, and deep learning domains. Currently, I am learning advanced concepts in deep learning such as RNNs and Transformers. I am also a Google Certified Data Analyst. My passion lies in converting data into meaningful insights and building frameworks for decision-making. ❤️
 
-I'm dedicated to harnessing the power of data, turning it into meaningful insights, and crafting innovative solutions. Let's collaborate and innovate to unlock the potential of data-driven decision-making! 📈✨
-------------
-#  📛Badge
- <p align="center"><img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="300" height="280"></p>
+A final year student who is passionate about learning Artificial Intelligence and its real-time applications. I enjoy working in Python, machine learning, and deep learning domains. Currently, I am learning advanced concepts in deep learning such as RNNs and Transformers. I am also a Google Certified Data Analyst. My passion lies in converting data into meaningful insights and building frameworks for decision-making. ❤️
 
--------------
+
 #  💻Tech Stack
 
 Programing Languages
@@ -20,6 +16,13 @@ Excel
 Data Visualization Tool
 
                        1.PowerBi   2.Excel     3.Python(seaborn/matplotlib)
+I'm dedicated to harnessing the power of data, turning it into meaningful insights, and crafting innovative solutions. Let's collaborate and innovate to unlock the potential of data-driven decision-making! 📈✨
+------------
+#  📛Badge
+ <p align="center"><img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="300" height="280"></p>
+
+-------------
+
                        
 -------------
 # 🌐Profiles
