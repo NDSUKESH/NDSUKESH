@@ -17,7 +17,8 @@ A final year student who is passionate about learning Artificial Intelligence an
     [![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
     [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 
-- Frontend Frameworks : <br/>StreamLit<p/>Gradio
+- Frontend Frameworks : <br/><p/>
+StreamLit<p/>Gradio
 
 
 #  📛Badge <br/>
