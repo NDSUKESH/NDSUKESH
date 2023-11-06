@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Sukesh
+# Hi 👋, I am Sukesh.
 
 ## <p align="left">Data Enthusiast</p><p align="right"><img src="https://user-images.githubusercontent.com/85696992/231533741-013b3615-e31e-4a8f-9aa7-70e91835bba2.gif" width="200" height="100"></p>
 -------------
