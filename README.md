@@ -5,13 +5,20 @@ A final year student who is passionate about learning Artificial Intelligence an
 
 #  💻Tech Stack
 
-Programing Languages   <br />
+- Programing Languages   <br />
                  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
                       
-Data Visualization Tool <br/>
+- Data Visualization Tool <br/>
 
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-I'm dedicated to harnessing the power of data, turning it into meaningful insights, and crafting innovative solutions. Let's collaborate and innovate to unlock the potential of data-driven decision-making! 📈✨
+
+- Machine Learning / Deep Learning frameworks : <br />
+    [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
+    [![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+    [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+
+- Frontend Frameworks : <br/>
+ <img src="https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png"> 
 ------------
 #  📛Badge
  <p align="center"><img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="300" height="280"></p>
