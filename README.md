@@ -18,7 +18,7 @@ A final year student who is passionate about learning Artificial Intelligence an
     [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 
 - Frontend Frameworks : <br/>
- <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/39595st.jpeg" width="120" height="25"></p> 
+ <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/39595st.jpeg" width="105" height="28"></p> 
 ------------
 #  📛Badge
  <p align="center"><img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="300" height="280"></p>
