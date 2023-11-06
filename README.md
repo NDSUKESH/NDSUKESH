@@ -18,7 +18,7 @@ A final year student who is passionate about learning Artificial Intelligence an
     [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 
 - Frontend Frameworks : <br/>
-1. StreamLit<t/>  2. Gradio
+  1. StreamLit<br />  2. Gradio
 
 
 #  📛Badge <br/>
