@@ -24,9 +24,7 @@ A final year student who is passionate about learning Artificial Intelligence an
 #  📛Badge <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="125" height="125"></p>
 
-# 🌐Profiles
-<p><a href="https://www.linkedin.com/in/sukesh-n-d-633865204/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="75" height="50"></a>  <a href="https://leetcode.com/SUKESH_7/"><img src="https://user-images.githubusercontent.com/85696992/231527992-0b0ed3f9-887a-4295-8ca4-d912bf5b958e.png" width="75" height="50"></a></p>
--------------
+
 # 📊GitHub Stats
 
 [![Sukesh Github stats](https://github-readme-stats.vercel.app/api?username=NDSUKESH&show_icons=true&hide=contribs,prs&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
