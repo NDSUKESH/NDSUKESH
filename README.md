@@ -19,9 +19,10 @@ A final year student who is passionate about learning Artificial Intelligence an
 
 - Frontend Frameworks : <br/>
 1. StreamLit<t/>  2. Gradio
-------------
-#  📛Badge
- <p align="center"><img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="300" height="280"></p>
+
+
+#  📛Badge <br/>
+ <p align="center"><img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="100" height="100"></p>
 
 -------------
 
