@@ -1,10 +1,5 @@
 # Hi 👋, I am Sukesh.
-
-## <p align="left">Data Enthusiast</p><p align="right"><img src="https://user-images.githubusercontent.com/85696992/231533741-013b3615-e31e-4a8f-9aa7-70e91835bba2.gif" width="200" height="100"></p>
--------------
-
-# 💫About Me
-         I am a final year student who is passionate about learning Artificial Intelligence and its real-time applications. I enjoy working in Python, machine learning, and deep learning domains. Currently, I am learning advanced concepts in deep learning such as RNNs and Transformers. I am also a Google Certified Data Analyst. My passion lies in converting data into meaningful insights and building frameworks for decision-making. ❤️
+      A final year student who is passionate about learning Artificial Intelligence and its real-time applications. I enjoy working in Python, machine learning, and deep learning domains. Currently, I am learning advanced concepts in deep learning such as RNNs and Transformers. I am also a Google Certified Data Analyst. My passion lies in converting data into meaningful insights and building frameworks for decision-making. ❤️
 
 I'm dedicated to harnessing the power of data, turning it into meaningful insights, and crafting innovative solutions. Let's collaborate and innovate to unlock the potential of data-driven decision-making! 📈✨
 ------------
