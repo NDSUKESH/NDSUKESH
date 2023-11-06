@@ -5,8 +5,8 @@ A final year student who is passionate about learning Artificial Intelligence an
 
 #  💻Tech Stack
 
-Programing Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                       1.Python     2.SQL     3.C++
+Programing Languages   <br />
+                 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
                       
 Excel
 
