@@ -32,6 +32,6 @@ A final year student who is passionate about learning Artificial Intelligence an
 
 
 # 📉DashBoards 
+<p style="margin-right: 20px;"><img src="https://user-images.githubusercontent.com/85696992/231541774-3b375ade-9763-4da0-8cad-704d0228b70c.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/85696992/231542598-195983b8-b4aa-4766-9fd3-0fcc5dd8cd4d.png" width="200" height="200"></p>
 
- <p ><img src="https://user-images.githubusercontent.com/85696992/231541774-3b375ade-9763-4da0-8cad-704d0228b70c.png" width="200" height="200">   <img src="https://user-images.githubusercontent.com/85696992/231542598-195983b8-b4aa-4766-9fd3-0fcc5dd8cd4d.png" width="200" height="200"></p>
 
