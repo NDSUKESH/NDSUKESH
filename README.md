@@ -22,7 +22,7 @@ A final year student who is passionate about learning Artificial Intelligence an
 
 
 #  📛Badge <br/>
- <p align="center"><img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="100" height="100"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/85696992/231519830-a67da721-c5ec-46d7-93c9-34d6d628dd6c.png" width="125" height="125"></p>
 
 -------------
 
