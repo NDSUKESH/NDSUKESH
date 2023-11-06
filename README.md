@@ -8,13 +8,9 @@ A final year student who is passionate about learning Artificial Intelligence an
 Programing Languages   <br />
                  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
                       
-Excel
+Data Visualization Tool <br/>
 
-                       1.Pivot Table     2.Charts
-                      
-Data Visualization Tool
-
-                       1.PowerBi   2.Excel     3.Python(seaborn/matplotlib)
+                       ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 I'm dedicated to harnessing the power of data, turning it into meaningful insights, and crafting innovative solutions. Let's collaborate and innovate to unlock the potential of data-driven decision-making! 📈✨
 ------------
 #  📛Badge
