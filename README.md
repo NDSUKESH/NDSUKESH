@@ -1,6 +1,6 @@
 # Hi 👋, I am Sukesh.
 
-A final year student who is passionate about learning Artificial Intelligence and its real-time applications. I enjoy working in Python, machine learning, and deep learning domains. Currently, I am learning advanced concepts in deep learning such as RNNs and Transformers. I am also a Google Certified Data Analyst. My passion lies in converting data into meaningful insights and building frameworks for decision-making. ❤️
+A final year student who is passionate about learning Artificial Intelligence and its real-time applications. I enjoy working in Python, machine learning, and deep learning domains. Currently, I am currently learning advanced concepts in deep learning such as RNNs and Transformers and Large Language Models. I am also a Google Certified Data Analyst. My passion lies in converting data into meaningful insights and building frameworks for decision-making. ❤️
 
 
 #  💻Tech Stack
